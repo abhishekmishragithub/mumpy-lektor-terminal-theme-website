@@ -8,9 +8,8 @@ url_style = absolute
   facebookID = "terminallabs"
   linkedInURL = "http://www.linkedin.com/company/terminal-labs"
   logo_file = "logo.png"
-  logo_subtext = "Python Mercenaries"
+  #logo_subtext = "Mumbai Python User Group"
   pinterestID = "terminallabs"
-  sticky_flat_page = "Repos/Downloads"
   twitterID = "terminal_labs"
 
 [packages]

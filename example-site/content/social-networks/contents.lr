@@ -9,22 +9,19 @@ title: Social Networks
 Social:
 
 #### social ####
-link_text: Repos/Downloads
+link_text: Socials
 ----
-url: /repos-downloads
+url: /socials
 #### social ####
 link_text: in
 ----
-url: http://www.linkedin.com/company/terminal-labs
+url: https://www.linkedin.com/company/mumpy/
 #### social ####
-link_text: t
+link_text: x
 ----
-url: https://twitter.com/terminal_labs
+url: https://twitter.com/mumpaipy
 #### social ####
-link_text: f
-----
-url: https://www.facebook.com/terminallabs
-#### social ####
+
 link_text: g
 ----
-url: https://github.com/terminal-labs/
+url: https://github.com/mumbaipy

@@ -2,7 +2,7 @@ _model: blog
 ---
 title: Blog
 ---
-nav_bar: yes
+nav_bar: no
 ---
 position: 10
 ---

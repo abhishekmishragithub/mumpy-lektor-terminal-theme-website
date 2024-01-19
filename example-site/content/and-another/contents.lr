@@ -2,6 +2,6 @@ _model: page
 ---
 title: and another
 ---
-nav_bar: yes
+nav_bar: no
 ---
 position: 4

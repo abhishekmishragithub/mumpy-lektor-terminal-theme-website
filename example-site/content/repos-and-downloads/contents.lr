@@ -2,6 +2,14 @@ _model: page
 ---
 title: repos and downloads
 ---
-_slug: repos-downloads
+_slug: socials
 ---
-body: sample content
+body:
+
+[Linkedin](https://www.linkedin.com/company/mumpy/)
+
+
+[Twitter/X](https://twitter.com/mumpaipy)
+
+
+[GitHub](https://github.com/mumbaipy)

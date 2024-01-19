@@ -1,14 +1,17 @@
-title: About this Website
+title: About
 ---
 body:
 
-This is a website that was made with the Lektor quickstart.
+Welcome to MumPy!
 
-And it does not contain a lot of information.
+
+Mumbai Python User Group (MumPy) is Non-profit and Volunteer-run community-driven group to promote Python programming language.
+Checkout our event here: https://lu.ma/mumpy
+
 ---
 meta_description: description
 ---
-meta_keywords: key words
+meta_keywords:
 ---
 nav_bar: yes
 ---
